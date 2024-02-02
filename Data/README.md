@@ -1,0 +1,1 @@
+This repository contains time series output data files from the molecular dynamics simulation of the spike protein. Each CSV file comprises 18 columns, corresponding to six pH values, with triplicate simulations conducted for each pH condition.
